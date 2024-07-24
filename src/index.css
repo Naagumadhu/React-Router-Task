@@ -1,0 +1,35 @@
+/* Align dropdown menus to the right */
+.navbar-nav {
+
+   margin-left: 9px;
+  }
+/* .d-flex{
+    
+    margin-left: 123px;
+    width: 300px;   
+} */
+.form-control{
+    width:280px;
+}
+
+.fa-search{
+    margin-left: 10px;
+    font-size:30px;
+}
+.container-fluid{
+    padding: 5px;
+}
+
+.dropdown-item:hover{
+    background-color: rgb(62, 206, 216);
+    color: #d714c6;
+}
+
+.dropdown-toggle:hover{
+    background-color: rgb(39, 190, 201);
+    color: aqua;
+}
+/* 
+ .nav-link:hover{
+    color: aqua;
+} */
